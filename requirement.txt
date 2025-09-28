@@ -1,3 +1,6 @@
 streamlit
 streamlit_folium
-folium
+foliumfolium
+numpy 
+plotly
+pillow
