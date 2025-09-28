@@ -1,6 +1,6 @@
 streamlit
 streamlit_folium
-foliumfolium
+folium
 numpy 
 plotly
 pillow
